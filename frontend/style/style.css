@@ -63,12 +63,12 @@ body{
 	text-align: center;
 }
 .card_img{
-	background-image: url("../images/instagram.png");
-	height: 300px;
+	background-image: url("../images/lezut_na_music.png");
+	height: 500px;
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
-.card:hover{
+.card{
 	margin-top: -15px;
 	transition-duration: 0.5s;
 }
